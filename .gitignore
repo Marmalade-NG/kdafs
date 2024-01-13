@@ -1,0 +1,6 @@
+gateway/node_modules
+gateway/deploy.sh
+gateway/yarn-error.log
+dapp/kdafs/dist
+dapp/kdafs/node_modules
+dapp/kdafs/deploy.sh
